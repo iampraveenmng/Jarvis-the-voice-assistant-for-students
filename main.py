@@ -16,8 +16,8 @@ from covid_india import states
 from gtts import gTTS
 import random
 import playsound
-#import splash_screen_gui
-#import anim
+import loadgui
+import gifgui
 import datetime
 import ecapture
 import pyjokes
