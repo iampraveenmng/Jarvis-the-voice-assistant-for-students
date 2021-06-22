@@ -1,66 +1,14 @@
 --------------------
 Date: 20:6:2021
 Time: 16:11
-Phone number: +917993472079
+Phone number: ##############
 Message: This is a test
+------------------
+
 --------------------
-Date: 20:6:2021
-Time: 16:11
-Phone number: +917993472079
-Message: This is a test
---------------------
-Date: 20:6:2021
-Time: 16:16
-Phone number: +917993472079
-Message: This is a test
---------------------
-Date: 20:6:2021
-Time: 16:18
-Phone number: +917993472079
-Message: This is a test
---------------------
-Date: 20:6:2021
-Time: 16:22
-Phone number: +917993472079
-Message: This is a test
---------------------
-Date: 20:6:2021
-Time: 17:47
-Group_id: project mangalyaan
-Message: hello
---------------------
-Date: 20:6:2021
-Time: 17:49
-Group_id: project mangalyaan
-Message: hello
---------------------
-Date: 20:6:2021
-Time: 17:52
-Group_id: Project Mangalyaan
-Message: hello
---------------------
+
 Date: 20:6:2021
 Time: 17:57
-Group_id: Kf6myU6XrEWBSe2lwQfu3i
+Group_id: #########################
 Message: hello
---------------------
-Date: 20:6:2021
-Time: 18:0
-Group_id: Kf6myU6XrEWBSe2lwQfu3i
-Message: hello
---------------------
-Date: 20:6:2021
-Time: 18:5
-Group_id: Kf6myU6XrEWBSe2lwQfu3i
-Message: This is a auto generated message
---------------------
-Date: 20:6:2021
-Time: 18:8
-Group_id: Kf6myU6XrEWBSe2lwQfu3i
-Message: This is a auto generated message
---------------------
-Date: 20:6:2021
-Time: 18:12
-Group_id: Kf6myU6XrEWBSe2lwQfu3i
-Message: This is a auto generated message
 --------------------
